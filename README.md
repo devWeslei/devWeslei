@@ -1,16 +1,22 @@
-### Hi there 👋
+Hey there! ✌
+My name is Weslei Tiago and I’m from Brazil! 🇧🇷
+💻 - Currently studying software engineering.
+💻- I’m studying English and programming courses by myself!
 
-<!--
-**devWeslei/devWeslei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about solving problems and learning. always open and ready for new challenges.
 
-Here are some ideas to get you started:
+Done:
+✅HTML
+✅CSS
+Currently studying:
+📍 - Javascript
+📍 - Java
+📍 - MySQL
+📍 - Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach me out 👇🏼
+
+Linkedin Badge Instagram Badge
+
+🌎Maringá-PR
+“O impossível é só uma questão de opinião.”
