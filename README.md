@@ -7,7 +7,7 @@ My name is Weslei Tiago and I'm from Brazil! 🇧🇷
 
 💻- I'm studying English and programming courses by myself!
 
-Passionate about solving problems and learning. always open and ready for new challenges.
+Passionate about solving problems and learning. Always open and ready for new challenges.
 
 Done:
 
