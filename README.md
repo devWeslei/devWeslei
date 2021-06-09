@@ -3,7 +3,7 @@
 
 My name is Weslei Tiago and I'm from Brazil! 🇧🇷
 
-💻 - Currently studying software engineering.
+💻 - Currently studying Software Engineering.
 
 💻- I'm studying English and programming courses by myself!
 
