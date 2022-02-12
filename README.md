@@ -17,13 +17,12 @@ Passionate about solving problems and learning. Always open and ready for new ch
 
 ### Currently studying:
 
- - 📍 - Javascript
- 
- - 📍 - Java
- 
- - 📍 - MySQL
-
  - 📍 - Flutter.
+ - 📍 - NodeJS
+ - 📍 - Javascript   
+ - 📍 - Java 
+ - 📍 - MySQL  
+ 
  
  
 ### Reach me out 👇🏼
@@ -34,4 +33,7 @@ ge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instag
 
 🌎Maringá-PR
 
-### "O impossível é só uma questão de opinião." 
+### "O impossível é só uma questão de opinião."   
+</br>   
+
+[![devWslei](https://github-readme-stats.vercel.app/api/top-langs/?username=devweslei&hide=html&layout=compact&theme=default)](https://github.com/devWeslei/)
