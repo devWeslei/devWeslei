@@ -33,7 +33,4 @@ ge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instag
 
 🌎Maringá-PR
 
-### "O impossível é só uma questão de opinião."   
-</br>   
-
-[![devWslei](https://github-readme-stats.vercel.app/api/top-langs/?username=devweslei&hide=html&layout=compact&theme=default)](https://github.com/devWeslei/)
+### "O impossível é só uma questão de opinião."      
