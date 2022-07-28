@@ -10,9 +10,9 @@ Passionate about solving problems and learning. Always open and ready for new ch
 
 <img src="coffee.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador"> 
 
-### Done:
+### Skills:
 
- ✅HTML, ✅CSS
+ ✅Flutter, ✅Git, ✅Firebase(BaaS), ✅HTML, ✅CSS
 
 
 ### Currently studying:
