@@ -35,6 +35,6 @@ ge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instag
 
 ### "O impossível é só uma questão de opinião."  
 
-### 💥highlight of the month:💥
+### 💥highlights of the month:💥
 https://github.com/devWeslei/uber   
 https://github.com/devWeslei/whats 
