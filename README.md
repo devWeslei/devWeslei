@@ -12,7 +12,7 @@ Passionate about solving problems and learning. Always open and ready for new ch
 
 ### Skills:
 
- ✅Flutter, ✅Git, ✅Firebase(BaaS), ✅HTML, ✅CSS
+ ✅Flutter, ✅Git, ✅Firebase(BaaS), ✅Parse Server, ✅Insomnia, ✅HTML, ✅CSS
 
 
 ### Currently studying:
