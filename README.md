@@ -17,11 +17,13 @@ Passionate about solving problems and learning. Always open and ready for new ch
 
 ### Currently studying:
 
- - 📍 - Flutter.
- - 📍 - NodeJS
- - 📍 - Javascript   
- - 📍 - Java 
- - 📍 - MySQL  
+ - 📍 - Flutter.    
+ - 📍 - Java.      
+ - 📍 - Kotlin.   
+ - 📍 - NodeJS.        
+ - 📍 - MySQL.         
+ - 📍 - MongoDB.         
+       
  
  
  
