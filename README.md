@@ -1,6 +1,6 @@
 # Hey there! ✌     
 
-My name is Weslei Tiago and I'm from Brazil! 🇧🇷
+I'm from Brazil! 🇧🇷
 
 💻 - Currently studying Software Engineering.
 
