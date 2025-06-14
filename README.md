@@ -2,9 +2,7 @@
 
 I'm from Brazil! 🇧🇷
 
-💻 - Currently studying Software Engineering.
-
-💻- I'm studying English and programming courses by myself!
+💻 - Graduated in Software Engineering.
 
 Passionate about solving problems and learning. Always open and ready for new challenges.   
 
@@ -12,19 +10,14 @@ Passionate about solving problems and learning. Always open and ready for new ch
 
 ### Skills:
 
- ✅Flutter, ✅Git, ✅Firebase(BaaS), ✅Parse Server, ✅Insomnia, ✅HTML, ✅CSS
+ ✅Flutter, ✅SQL server, ✅Firebase(BaaS), ✅Insomnia, ✅Git
 
 
 ### Currently studying:
 
  - 📍 - Flutter.    
  - 📍 - Java.      
- - 📍 - Kotlin.   
- - 📍 - NodeJS.        
- - 📍 - MySQL.         
- - 📍 - MongoDB.         
-       
- 
+ - 📍 - Kotlin.            
  
  
 ### Reach me out 👇🏼
