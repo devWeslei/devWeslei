@@ -26,7 +26,7 @@ Passionate about solving problems and learning. Always open and ready for new ch
 ge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wesleiwt/)](https://www.instagram.com/wesleiwt/) 
  
 
-🌎Maringá-PR
+🌎Irecê - BA
 
 ### "O impossível é só uma questão de opinião."  
 
